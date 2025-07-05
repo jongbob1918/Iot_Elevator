@@ -9,6 +9,9 @@
 
 ## 발표자료
 [![발표자료]([https://img.shields.io/badge/Arduino-Uno-00979D?logo=arduino&logoColor=white)](https://www.arduino.cc/](https://docs.google.com/presentation/d/1m6TEW22ZXlsffNen36meO2qcAVfPnEL0svScLSEzju0/edit?usp=sharing))
+</br>
+[![tinkercad]([https://img.shields.io/badge/Arduino-Uno-00979D?logo=arduino&logoColor=white)](https://www.arduino.cc/](https://www.tinkercad.com/things/1Y2Mx1cmY9a-elevatorled
+))
 
 ---
 
