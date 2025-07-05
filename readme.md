@@ -8,10 +8,9 @@
 > 핀 매핑만 바꾸면 층수·속도를 손쉽게 확장할 수 있습니다. 
 
 ## 발표자료
-[![발표자료]([https://img.shields.io/badge/Arduino-Uno-00979D?logo=arduino&logoColor=white)](https://www.arduino.cc/](https://docs.google.com/presentation/d/1m6TEW22ZXlsffNen36meO2qcAVfPnEL0svScLSEzju0/edit?usp=sharing))
+[![발표자료](https://docs.google.com/presentation/d/1m6TEW22ZXlsffNen36meO2qcAVfPnEL0svScLSEzju0/edit?usp=sharing)
 </br>
-[![tinkercad]([https://img.shields.io/badge/Arduino-Uno-00979D?logo=arduino&logoColor=white)](https://www.arduino.cc/](https://www.tinkercad.com/things/1Y2Mx1cmY9a-elevatorled
-))
+[![tinkercad](https://www.tinkercad.com/things/1Y2Mx1cmY9a-elevatorled)
 
 ---
 
