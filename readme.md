@@ -3,14 +3,12 @@
 
 [![Arduino](https://img.shields.io/badge/Arduino-Uno-00979D?logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
-
-> **목표** – 버튼·LED만으로 엘리베이터의 호출, 이동, 대기 로직을 시뮬레이션하는 간단한 FSM(Finite-State Machine) 예제 프로젝트입니다.  
+## 프로젝트 목표
+>  – 버튼·LED만으로 엘리베이터의 호출, 이동, 대기 로직을 시뮬레이션하는 간단한 FSM(Finite-State Machine) 예제 프로젝트입니다.  
 > 핀 매핑만 바꾸면 층수·속도를 손쉽게 확장할 수 있습니다. 
-
 ## 발표자료
-[![발표자료](https://docs.google.com/presentation/d/1m6TEW22ZXlsffNen36meO2qcAVfPnEL0svScLSEzju0/edit?usp=sharing)
-</br>
-[![tinkercad](https://www.tinkercad.com/things/1Y2Mx1cmY9a-elevatorled)
+[발표 슬라이드 보기](https://docs.google.com/presentation/d/1m6TEW22ZXlsffNen36meO2qcAVfPnEL0svScLSEzju0/edit?usp=sharing)  
+[Tinkercad 시뮬레이션 열기](https://www.tinkercad.com/things/1Y2Mx1cmY9a-elevatorled)
 
 ---
 
