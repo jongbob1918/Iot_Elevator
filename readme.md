@@ -55,10 +55,6 @@
 ---
 
 ## 코드 구조
-elevator/
-├── elevator.ino # 메인 스케치 (FSM / 루프)
-└── README.md
-
 핵심 상수·변수는 **순서도와 동일한 이름**으로 선언되어 유지보수성과 가독성을 높였습니다.  
 - `buttonPress()`  : 버튼 → 호출 토글  
 - `floorSensing()` : GREEN LED ON/OFF  
